@@ -2,7 +2,6 @@
 author: Nicholas Phillips
 date: Sat 03/05/2022
 gh_page: "https://bowudev.github.io/BowuDev/"
-github_repo: "https://github.com/BowuDev/BowuDev"
 title: BowuDev’s Readme
 ---
 
