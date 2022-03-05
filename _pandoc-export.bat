@@ -1,0 +1,7 @@
+pandoc -s README_src.md -t gfm --filter pandoc-mustache -o README.md -M date="%date%" -M created_with="Zettlr & Pandoc"
+pandoc -s README_src.md -t plain --filter pandoc-mustache -o README.txt -M date="%date%" -M created_with="Zettlr & Pandoc"
+pandoc -s README_src.md --filter pandoc-mustache -o README.html -M date="%date%" -M created_with="Zettlr & Pandoc"
+pandoc -s README_src.md --filter pandoc-mustache -o README.epub -M date="%date%" -M created_with="Zettlr & Pandoc"
+pandoc -s README_src.md -t asciidoc --filter pandoc-mustache -o README.adoc -M date="%date%" -M created_with="Zettlr & Pandoc"
+rem pandoc -s README_src.md --pdf-engine=xelatex --filter pandoc-mustache -o README.pdf -M date="%date%" -M created_with="Zettlr & Pandoc"
+rem pandoc -s README_src.md --filter pandoc-mustache -o README.docx -M date="%date%" -M created_with="Zettlr & Pandoc"
