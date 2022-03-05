@@ -65,6 +65,6 @@ caffeine](https://forthebadge.com/images/badges/powered-by-coffee.svg "Powered b
 
 Born [May 16th,
 2000](https://www.thecalculatorsite.com/age?birthdate=20010516&birthtime=1200),
-raised in Florida. [![Made with
-Zettlr](https://img.shields.io/badge/Made%20with-Zettlr-brightgreen?style=for-the-badge&logo=github)](https://github.com/Zettlr/Zettlr)
+raised in Florida.
+
 ![](https://img.shields.io/github/last-commit/bowudev/bowudev?style=for-the-badge)

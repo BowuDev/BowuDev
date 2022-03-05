@@ -50,4 +50,6 @@ Things I enjoy
 
 ------------------------------------------------------------------------
 
-Born May 16th, 2000, raised in Florida. [Made with Zettlr] []
+Born May 16th, 2000, raised in Florida.
+
+[]

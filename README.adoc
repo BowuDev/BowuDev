@@ -59,6 +59,5 @@ review]
 Born
 https://www.thecalculatorsite.com/age?birthdate=20010516&birthtime=1200[May
 16th, 2000], raised in Florida.
-https://github.com/Zettlr/Zettlr[image:https://img.shields.io/badge/Made%20with-Zettlr-brightgreen?style=for-the-badge&logo=github[Made
-with Zettlr]]
+
 image:https://img.shields.io/github/last-commit/bowudev/bowudev?style=for-the-badge[image]
