@@ -1,0 +1,63 @@
+= BowuDev’s Readme
+Nicholas Phillips
+Sat 03/05/2022
+
+== Bowu
+
+An avid learner without enough time to accomplish every whim. Extremely
+interested in the future of privacy, security, and health.
+image:https://forthebadge.com/images/badges/powered-by-coffee.svg[Powered
+by caffeine,title="Powered by caffeine"]
+
+== Availability
+
+* image:./assets/simpleicons.org/Telegram.svg[image] Telegram (preferred
+because of privacy)
+** @https://t.me/BowuDev[BowuDev]
+** Note: https://telegram.org/faq#secret-chats[Secret Chat] is great and
+such.
+* image:./assets/simpleicons.org/Discord.svg[image] Discord
+** Tag: `Bowu#2764`
+** ID:
+https://discord.id/?prefill=747578147569926224[`747578147569926224`]
+* image:./assets/mailfence.com/logo-white.svg[image] Emails
+** themself@bowu.dev (preferred)
+*** https://keys.openpgp.org/search?q=themself@bowu.dev
+** github@bowu.dev
+** business@bowu.dev
+** legal@bowu.dev
+
+'''''
+
+== Things I enjoy
+
+* ``Softwares/Apps/Services''
+** https://mullvad.net/[Mullvad] | `Good' VPN with Crypto options.
+** https://github.com/Zettlr/Zettlr[Zettlr]
+*** image:https://img.shields.io/github/license/Zettlr/Zettlr?label=On%20Github&logo=github&style=flat-square[On
+Github,title="fig:"]
+** https://www.enpass.io/[Enpass]
+** https://www.boxcryptor.com/[BoxCryptor]
+** https://github.com/Zettlr/Zettlr[Hat.sh]
+*** image:https://img.shields.io/github/license/sh-dv/hat.sh?label=On%20Github&logo=github&style=flat-square[On
+Github,title="fig:"]
+** https://mailfence.com/en/private-email.jsp[Mailfence]
+*** https://blog.mailfence.com/transparency-report-and-warrant-canary/[Warrant
+Canary]
+**** Why doesn’t the fact they have as of June 2021, provided 49
+identities? Because the same reason that we should either self-host, or
+stop worrying full stop. No matter how ``encrypted'' a provider is or
+privacy focused even, if they exist in a country with laws, they’re
+going to have to listen to those laws. And when countries cooperate, it
+no longer is entirely a matter of ``X Countries laws has no issue with
+this!'' Needless to say it’s a complex situation.
+*** https://restoreprivacy.com/email/reviews/mailfence/[RestorePrivacy.com
+review]
+
+'''''
+
+Born
+https://www.thecalculatorsite.com/age?birthdate=20010516&birthtime=1200[May
+16th, 2000], raised in Florida.
+
+image:https://img.shields.io/github/last-commit/bowudev/bowudev?style=for-the-badge[image]
