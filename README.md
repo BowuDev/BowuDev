@@ -1,7 +1,7 @@
 ---
 author: Nicholas Phillips
-created_with: Zettlr & Pandoc
 date: Sat 03/05/2022
+github_repo: "https://github.com/BowuDev/BowuDev"
 title: BowuDev’s Readme
 ---
 
