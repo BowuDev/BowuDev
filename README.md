@@ -26,7 +26,6 @@ caffeine](https://forthebadge.com/images/badges/powered-by-coffee.svg "Powered b
         [`747578147569926224`](https://discord.id/?prefill=747578147569926224)
 -   ![](./assets/mailfence.com/logo-white.svg) Emails
     -   <themself@bowu.dev> (preferred)
-        -   <https://keys.openpgp.org/search?q=themself@bowu.dev>
     -   <github@bowu.dev>
     -   <business@bowu.dev>
     -   <legal@bowu.dev>
